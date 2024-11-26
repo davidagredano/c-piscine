@@ -1,5 +1,7 @@
 # C Piscine
 
+![c-piscine-42-school](https://github.com/user-attachments/assets/b1722a33-a415-4611-8693-d78260fe08c4)
+
 My C Piscine projects for 42 School
 
 ## C Modules
