@@ -25,3 +25,4 @@ My C Piscine projects for 42 School
 - [Exercise 01: ft_boolean.h](https://github.com/davidagredano/c-piscine/blob/main/C08/ex01/ft_boolean.h?ts=4) - Create a header with macros for even/odd checks.
 - [Exercise 02: ft_abs.h](https://github.com/davidagredano/c-piscine/blob/main/C08/ex02/ft_abs.h?ts=4) - Create a header with a function-like macro to get absolute values.
 - [Exercise 03: ft_point.h](https://github.com/davidagredano/c-piscine/blob/main/C08/ex03/ft_point.h?ts=4) - Create a header with a point struct and typedef.
+- [Exercise 04: ft_strs_to_tab](https://github.com/davidagredano/c-piscine/blob/main/C08/ex04/ft_strs_to_tab.c?ts=4) - Convert string array to a custom struct array.
