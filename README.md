@@ -26,3 +26,4 @@ My C Piscine projects for 42 School
 - [Exercise 02: ft_abs.h](https://github.com/davidagredano/c-piscine/blob/main/C08/ex02/ft_abs.h?ts=4) - Create a header with a function-like macro to get absolute values.
 - [Exercise 03: ft_point.h](https://github.com/davidagredano/c-piscine/blob/main/C08/ex03/ft_point.h?ts=4) - Create a header with a point struct and typedef.
 - [Exercise 04: ft_strs_to_tab](https://github.com/davidagredano/c-piscine/blob/main/C08/ex04/ft_strs_to_tab.c?ts=4) - Convert string array to a custom struct array.
+- [Exercise 05: ft_show_tab](https://github.com/davidagredano/c-piscine/blob/main/C08/ex05/ft_show_tab.c?ts=4) - Display contents of the custom struct array.
