@@ -30,3 +30,4 @@ My C Piscine projects for 42 School
 
 ### [Module C 09](https://github.com/davidagredano/c-piscine/tree/main/C09) - Library and build management
 - [Exercise 00: libft](https://github.com/davidagredano/c-piscine/blob/main/C09/ex00/libft_creator.sh?ts=4) - Create a library with basic string and utility functions.
+- [Exercise 01: Makefile](https://github.com/davidagredano/c-piscine/blob/main/C09/ex01/Makefile?ts=4) - Create a Makefile for compiling the library.
