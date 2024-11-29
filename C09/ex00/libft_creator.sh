@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Compile all .c files into object files
-cc -c *.c
+cc -Wall -Wextra -Werror -c *.c
 
 # Create a static library from the object files
 #  r (replace): Add or replace object files in the archive 
