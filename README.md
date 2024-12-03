@@ -32,3 +32,6 @@ My C Piscine projects for 42 School
 - [Exercise 00: libft](https://github.com/davidagredano/c-piscine/blob/main/C09/ex00/libft_creator.sh?ts=4) - Create a library with basic string and utility functions.
 - [Exercise 01: Makefile](https://github.com/davidagredano/c-piscine/blob/main/C09/ex01/Makefile?ts=4) - Create a Makefile for compiling the library.
 - [Exercise 02: ft_split](https://github.com/davidagredano/c-piscine/blob/main/C09/ex02/ft_split.c?ts=4) - Split a string using multiple separators.
+
+### [Module C 10](https://github.com/davidagredano/c-piscine/tree/main/C10) - File Handling and Utilities
+- [Exercise 00: display_file](https://github.com/davidagredano/c-piscine/tree/main/C10/ex00/main.c?ts=4) - Create a program that displays the content of a file given as an argument.
