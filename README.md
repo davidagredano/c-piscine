@@ -35,3 +35,4 @@ My C Piscine projects for 42 School
 
 ### [Module C 10](https://github.com/davidagredano/c-piscine/tree/main/C10) - File handling and utilities
 - [Exercise 00: display_file](https://github.com/davidagredano/c-piscine/tree/main/C10/ex00/main.c?ts=4) - Create a program that displays the content of a file given as an argument.
+- [Exercise 01: cat](https://github.com/davidagredano/c-piscine/tree/main/C10/ex01/main.c?ts=4) - Create a program that mimics the system's cat command to display file contents.
